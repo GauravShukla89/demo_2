@@ -18,3 +18,8 @@ CREATE TABLE movie (
 
 );
 
+
+
+INSERT INTO movie (mov_id, mov_title, mov_year, mov_time, mov_lang, mov_dt_rel, mov_rel_country) VALUES (901, 'Vertigo', 1958, 128, 'English', '1958-08-24', 'UK');
+
+
